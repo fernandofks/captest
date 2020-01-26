@@ -1,9 +1,21 @@
-#cabecalho{
-    position: fixed;
-    background-color: blue;
-    width:100%;
-}
 
-body{
-    background-color:pink;
-}
+
+  .header{
+    position: fixed;
+    background-color: #f00;
+    height: 100px;
+    width: 100%;
+    top:0;
+    left:0;
+    }
+    .main{
+    background-color: #ff0;
+    height: 700px;
+    width: 100%;
+    }
+    .footer{
+    position: fixed;
+    bottom: 0;
+    background-color: #f0f;
+    height: 120px;
+    width: 100%;}
